@@ -1,0 +1,23 @@
+{
+  "name": "ip-geolocation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir=build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruslan-Polyanski/ip-geolocation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruslan-Polyanski/ip-geolocation/issues"
+  },
+  "homepage": "https://github.com/Ruslan-Polyanski/ip-geolocation#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
